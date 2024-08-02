@@ -4,6 +4,6 @@
 
 module.exports = {
     biz: 'wxmall',
-    appid: 'wxcf5102ada68a7ac9',
-    appsecret: ''
+    appid: 'wx52de2ac9eb98b160',
+    appsecret: '396ff8ba932783e905efc513107a4db5'
 }
