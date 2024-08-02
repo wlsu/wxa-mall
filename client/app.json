@@ -3,6 +3,7 @@
     "pages/index/index",
     "pages/demo/demo",
     "pages/center/center",
+    "pages/hktvmallWeb/hktvmallWeb",
     "pages/modifyaddr/modifyaddr",
     "pages/address/address",
     "pages/cart/cart",
@@ -48,6 +49,12 @@
         "iconPath": "images/tabbar/person.png",
         "selectedIconPath": "images/tabbar/curperson.png",
         "text": "个人"
+      },
+      {
+        "pagePath": "pages/hktvmallWeb/hktvmallWeb",
+        "iconPath": "images/tabbar/person.png",
+        "selectedIconPath": "images/tabbar/curperson.png",
+        "text": "Mall"
       }
     ]
   },
