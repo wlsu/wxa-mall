@@ -1,6 +1,7 @@
 {
     "projectname": "wxa-mall",
     "setting": {
-        "compileHotReLoad": true
+        "compileHotReLoad": true,
+        "bigPackageSizeSupport": true
     }
 }
